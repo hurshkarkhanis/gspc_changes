@@ -1,4 +1,4 @@
-# S&P 500 Changes
+## Big or Small? Changes in the S&P 500
 
 As a passive investor in the S&P 500, I tend to check the index around twice a day. 
 
